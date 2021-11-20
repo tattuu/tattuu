@@ -1,4 +1,4 @@
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/tattuu/tattuu/">
     <img src="https://komarev.com/ghpvc/?username=atttuu&color=ff69b4" alt="tattuu" />
   </a>
@@ -11,7 +11,8 @@
 <img height='170px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tattuu&layout=compact' />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tattuu&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+ -->
+ 
 [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
