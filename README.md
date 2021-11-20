@@ -1,4 +1,4 @@
-<!-- <p align="left"> 
+<p align="left"> 
   <a href="https://github.com/tattuu/tattuu/">
     <img src="https://komarev.com/ghpvc/?username=atttuu&color=ff69b4" alt="tattuu" />
   </a>
@@ -7,6 +7,7 @@
   </a>
 </p>
 
+<!-- 
 <img height='170px' align='left' src='https://github-readme-stats.vercel.app/api?username=tattuu&show_icons=true&theme=monokai' />
 <img height='170px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tattuu&layout=compact' />
 
