@@ -1,19 +1,3 @@
-<p align="left"> 
-  <a href="https://github.com/tattuu/tattuu/">
-    <img src="https://komarev.com/ghpvc/?username=atttuu&color=ff69b4" alt="tattuu" />
-  </a>
-  <a href="http://twitter.com/NagaoTatsuyoshi">
-    <img height="20" src="https://img.shields.io/twitter/follow/NagaoTatsuyoshi?label=Twitter&logo=twitter&style=flat&color=ff69b4" />
-  </a>
-</p>
-
-<!-- 
-<img height='170px' align='left' src='https://github-readme-stats.vercel.app/api?username=tattuu&show_icons=true&theme=monokai' />
-<img height='170px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tattuu&layout=compact' />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tattuu&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
- -->
- 
 [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
 [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
