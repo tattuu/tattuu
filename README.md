@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- [![](https://raw.githubusercontent.com/tattuu/tattuu/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills&Love:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,vue,fastapi,flutter,postgresql,firebase,aws,docker,selenium)](https://skillicons.dev)
 <p align="left">
